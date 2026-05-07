@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.dockerignore
+models/*
+!models/exopierna.stl
